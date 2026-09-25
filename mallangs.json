@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "mallangs": [
+    {
+      "name": "분홍 말랑이",
+      "creatorNickname": "영유",
+      "shareCode": "MLG-TEST-0001",
+      "imageMode": "single",
+      "type": "soft",
+      "size": 100,
+      "squish": 50,
+      "bounce": 50,
+      "soundMuted": false,
+      "themeColor": "#ffb6d9",
+      "images": {
+        "normal": "normal.png",
+        "stage1": "stage1.png",
+        "stage2": "stage2.png",
+        "stage3": "stage3.png"
+      }
+    }
+  ]
+}
