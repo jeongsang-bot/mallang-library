@@ -13,7 +13,7 @@
       "soundMuted": false,
       "themeColor": "#ffb6d9",
       "images": {
-        "normal": "normal.png",
+       "normal": "https://raw.githubusercontent.com/jeongsang-bot/mallang-library/main/pig.png",
         "stage1": "stage1.png",
         "stage2": "stage2.png",
         "stage3": "stage3.png"
